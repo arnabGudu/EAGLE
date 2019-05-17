@@ -1,0 +1,25 @@
+* SpiceNetList
+* 
+* Exported from main_board.sch at 5/15/2019 8:29 AM
+* 
+* EAGLE Version 9.2.2 Copyright (c) 1988-2018 Autodesk, Inc.
+* 
+.TEMP=25.000000
+* --------- .OPTIONS ---------
+* --------- .PARAMS ---------
+
+* --------- simulation ---------
+.print DC 
+.print AC 
+.print TRAN 
+.END
+
+
+
+
+
+
+
+
+
+
